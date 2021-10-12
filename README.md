@@ -134,3 +134,4 @@
 | 104 | Huilun Hu            | A10              |     huilun910             | 2021-10-04    |  https://github.com/huilun910/individual_project.git
 | 105 | Sibusisiwe Dhlodhlo   | B1    |     busieddhlodhlo  |    |  https://github.com/busieddhlodhlo/Individual_Assignment
 | 106 | Maggie Guo   | A4    |     MaggieJingyiGuo  |    |  https://github.com/MaggieJingyiGuo/individual_project.git
+| 107 | Ieuan Edmonds | A13 | IeuanEdmonds | 2021-10-12 | https://github.com/IeuanEdmonds/my_website1.git
